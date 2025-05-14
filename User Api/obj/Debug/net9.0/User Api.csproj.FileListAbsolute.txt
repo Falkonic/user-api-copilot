@@ -26,3 +26,4 @@
 /Users/florianfrohlich/CodeProjects/user-api-copilot/User Api/obj/Debug/net9.0/User Api.pdb
 /Users/florianfrohlich/CodeProjects/user-api-copilot/User Api/obj/Debug/net9.0/User Api.genruntimeconfig.cache
 /Users/florianfrohlich/CodeProjects/user-api-copilot/User Api/obj/Debug/net9.0/ref/User Api.dll
+/Users/florianfrohlich/CodeProjects/user-api-copilot/User Api/obj/Debug/net9.0/User Api.sourcelink.json
